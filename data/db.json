@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Delegate ADA",
+      "details": "Move to YOROI wallet and delegate to JPX",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Complete Vue course",
+      "details": "Work through Vue 3 course",
+      "complete": false
+    },
+    {
+      "title": "WaniKani reviews",
+      "details": "Complete WaniKani reviews today to keep on top of Kanji",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Level up priest in WoW TBC",
+      "details": "Keep levelling the Draenei priest in pre-patch before TBC launch",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
